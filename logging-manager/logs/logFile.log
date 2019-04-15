@@ -1,0 +1,3 @@
+14/04/2019 08:16:05.432 - [com.belatrix.logging.manager.LoggerApplication] - [main] - [INFO] - testing info
+14/04/2019 08:16:05.442 - [com.belatrix.logging.manager.LoggerApplication] - [main] - [SEVERE] - testing severe
+14/04/2019 08:16:05.443 - [com.belatrix.logging.manager.LoggerApplication] - [main] - [WARNING] - testing error
